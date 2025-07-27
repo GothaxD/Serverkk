@@ -1,0 +1,51 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "bedroom",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "iceandfire:dreadwood",
+    "botania:livingwood",
+    "botania:dreamwood",
+    "malum:runewood",
+    "malum:soulwood"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ],
+    "variantChildren": {
+      "base": 1
+    }
+  },
+  "result": {
+    "outputClass": "SimpleBunkLadderBlock",
+    "count": 4
+  }
+}

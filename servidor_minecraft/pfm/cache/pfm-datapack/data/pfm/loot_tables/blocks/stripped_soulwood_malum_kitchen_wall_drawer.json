@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "stripped_soulwood_malum_kitchen_wall_drawer",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_soulwood_malum_kitchen_wall_drawer"
+        }
+      ]
+    }
+  ]
+}
