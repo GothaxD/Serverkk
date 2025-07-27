@@ -730,3 +730,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27Jul2025 07:40:20.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [27Jul2025 07:40:27.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
 [27Jul2025 07:40:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[27Jul2025 07:55:41.869] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[27Jul2025 07:55:43.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:54827] logged in with entity id 2058 at (-98.11928343697998, 82.0, -76.83505826277239)
+[27Jul2025 07:55:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[27Jul2025 07:55:52.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[27Jul2025 07:55:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
