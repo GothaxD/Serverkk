@@ -2397,3 +2397,24 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [28Jul2025 05:21:49.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Diamonds!]
 [28Jul2025 05:22:34.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was doomed to fall
 [28Jul2025 05:22:34.776] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:23:07.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:24:33.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was blown up by Corrupted Creeper
+[28Jul2025 05:24:33.342] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:25:09.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/80485, l='ServerLevel[world]', x=-381.49, y=64.00, z=-475.07] died, message: 'Villager was slain by Zombie'
+[28Jul2025 05:25:18.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85124, l='ServerLevel[world]', x=-399.37, y=66.00, z=-500.30] died, message: 'Villager was slain by Adventurer Zombie'
+[28Jul2025 05:25:41.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/80477, l='ServerLevel[world]', x=-414.47, y=77.00, z=-542.62] died, message: 'Butcher was slain by Zombie'
+[28Jul2025 05:25:45.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:26:05.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT was kicked for floating too long!
+[28Jul2025 05:26:05.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Flying is not enabled on this server
+[28Jul2025 05:26:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[28Jul2025 05:26:12.190] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[28Jul2025 05:26:15.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:39781] logged in with entity id 94605 at (-153.15823963120351, 32.498746572196886, -559.4518366945928)
+[28Jul2025 05:26:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[28Jul2025 05:28:48.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 05:30:56.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Who You Gonna Call?]
+[28Jul2025 05:31:45.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [A Strange Grave Dust]
+[28Jul2025 05:31:52.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Zombie
+[28Jul2025 05:31:52.757] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:32:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Chain Death]
+[28Jul2025 05:32:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by HardBNT
+[28Jul2025 05:32:12.861] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
