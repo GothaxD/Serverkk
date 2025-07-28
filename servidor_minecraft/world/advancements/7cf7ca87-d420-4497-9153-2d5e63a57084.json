@@ -1553,6 +1553,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-07-28 05:37:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
@@ -1643,9 +1649,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-28 05:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 05:01:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-28 05:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-28 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-28 05:40:28 +0000"
     },
     "done": true
   },
@@ -1685,6 +1715,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:fire_success": {
+    "criteria": {
+      "fire_success_0": "2025-07-28 05:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 05:01:31 +0000"
@@ -1700,6 +1736,24 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-28 05:15:26 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bag_success": {
+    "criteria": {
+      "bag_success_0": "2025-07-28 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-28 05:38:08 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_copper": "2025-07-28 05:38:08 +0000"
     },
     "done": true
   },
@@ -1757,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-28 05:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-28 04:34:22 +0000"
@@ -1808,6 +1868,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-28 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-07-28 05:38:37 +0000"
     },
     "done": true
   },
@@ -1979,6 +2045,12 @@
     },
     "done": true
   },
+  "malum:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper": "2025-07-28 05:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 05:01:31 +0000"
@@ -2018,6 +2090,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-28 05:38:08 +0000"
     },
     "done": true
   },
@@ -2183,6 +2261,18 @@
     },
     "done": true
   },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-07-28 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-07-28 05:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-07-28 05:22:20 +0000"
@@ -2204,6 +2294,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 05:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-28 05:39:12 +0000"
     },
     "done": true
   },
@@ -2252,6 +2348,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-28 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-07-28 05:38:08 +0000"
     },
     "done": true
   },

@@ -8716,3 +8716,24 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [28Jul2025 05:32:12.861] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
 [28Jul2025 05:32:32.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 05:32:32.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 05:35:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has reached the goal [Leeroy Is Back]
+[28Jul2025 05:35:31.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 05:37:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Goblin's Tyranny]
+[28Jul2025 05:37:24.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Flusk Zombie
+[28Jul2025 05:37:24.455] [Server thread/DEBUG] [tombstone/]: A new grave of the player HardBNT was created at position [x:-154, y:52, z:-562, dim:minecraft:overworld]
+[28Jul2025 05:37:24.479] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:37:32.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 05:37:32.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 05:37:40.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [This is Goblin Musk]
+[28Jul2025 05:38:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Bim Bam Boom !]
+[28Jul2025 05:38:32.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has reached the goal [Mystery Bag]
+[28Jul2025 05:38:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [It's Time for Marshmallow]
+[28Jul2025 05:38:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Oh Right. The Poison.]
+[28Jul2025 05:40:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BonjoXTR> 30 -1089
+[28Jul2025 05:42:32.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 05:42:32.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 05:43:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was doomed to fall by Flusk Zombie
+[28Jul2025 05:43:01.460] [Server thread/DEBUG] [tombstone/]: A new grave of the player BonjoXTR was created at position [x:31, y:64, z:-1046, dim:minecraft:overworld]
+[28Jul2025 05:43:01.483] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 05:43:08.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 05:43:15.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
