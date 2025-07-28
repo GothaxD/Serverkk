@@ -76,7 +76,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-07-28 04:07:15 +0000"
+      "opened_chest": "2025-07-28 04:07:15 +0000",
+      "opened_cart": "2025-07-28 04:52:32 +0000"
     },
     "done": false
   },
@@ -1496,9 +1497,21 @@
     },
     "done": true
   },
+  "malum:recipes/misc/soulstone_from_deepslate_blasting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/soulstone_from_raw_smelting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
     },
     "done": true
   },
@@ -1520,9 +1533,33 @@
     },
     "done": true
   },
+  "malum:recipes/misc/soulstone_from_block": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-28 04:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-28 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/crude_scythe": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/block_of_soulstone": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
     },
     "done": true
   },
@@ -1532,9 +1569,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 04:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 04:50:16 +0000"
     },
     "done": true
   },
@@ -1574,6 +1623,24 @@
     },
     "done": true
   },
+  "malum:recipes/misc/raw_soulstone_from_block": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/soulstone_from_blasting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/soulstone_from_deepslate_smelting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-28 04:37:18 +0000"
@@ -1586,9 +1653,21 @@
     },
     "done": true
   },
+  "malum:recipes/misc/soulstone_from_crushed_smelting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-07-28 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/spirit_altar": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
     },
     "done": true
   },
@@ -1601,6 +1680,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-28 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/soulstone_from_raw_blasting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
     },
     "done": true
   },
@@ -1634,6 +1719,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-28 04:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
@@ -1643,6 +1734,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-07-28 04:35:40 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/soulstone_from_crushed_blasting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
     },
     "done": true
   },
@@ -1658,6 +1755,12 @@
     },
     "done": true
   },
+  "malum:recipes/misc/raw_soulstone_block": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-28 04:31:53 +0000"
@@ -1670,9 +1773,27 @@
     },
     "done": true
   },
+  "malum:recipes/misc/soulstone_from_smelting": {
+    "criteria": {
+      "has_soulstone": "2025-07-28 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 04:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-28 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-28 04:54:52 +0000"
     },
     "done": true
   },
@@ -1694,9 +1815,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 04:50:16 +0000"
+    },
+    "done": true
+  },
   "malum:recipes/misc/coal_fragment": {
     "criteria": {
       "has_coal": "2025-07-28 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 04:54:04 +0000"
     },
     "done": true
   },

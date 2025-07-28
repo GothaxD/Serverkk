@@ -2283,3 +2283,60 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [28Jul2025 04:50:05.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [28Jul2025 04:50:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Adventurer Zombie
 [28Jul2025 04:50:23.128] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 04:52:30.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Knowledge of Death]
+[28Jul2025 04:52:30.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Funeral Theft]
+[28Jul2025 04:52:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Tunnel Treasures]
+[28Jul2025 04:52:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Where Is The Stone Pen?]
+[28Jul2025 04:53:24.332] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:53:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Knowledge raises the soul]
+[28Jul2025 04:54:20.302] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:54:20.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[28Jul2025 04:54:20.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[28Jul2025 04:54:20.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:54:20.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:54:20.850] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 04:54:20.850] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:54:20.851] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 04:54:20.851] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:54:20.851] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 04:54:20.851] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [A Strange Grave Dust]
+[28Jul2025 04:55:32.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Suit Up]
+[28Jul2025 04:55:39.086] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:39.086] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 04:55:39.086] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:39.326] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:39.337] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:40.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 04:55:41.725] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:41.790] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:41.790] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:41.800] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-58, z=17}
+[28Jul2025 04:55:41.801] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-59, z=17}
+[28Jul2025 04:55:41.801] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:41.801] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-59, z=23}
+[28Jul2025 04:55:41.802] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 04:55:48.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Ghost
+[28Jul2025 04:55:48.804] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 04:55:58.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:56:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has reached the goal [Here They Come]
+[28Jul2025 04:57:11.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 04:58:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Suit Up]
+[28Jul2025 04:58:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Ghost
+[28Jul2025 04:58:25.409] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 04:58:29.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[28Jul2025 04:58:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 04:59:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Flusk Zombie
+[28Jul2025 04:59:01.066] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 04:59:14.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT was kicked for floating too long!
+[28Jul2025 04:59:14.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Flying is not enabled on this server
+[28Jul2025 04:59:14.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[28Jul2025 04:59:25.087] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[28Jul2025 04:59:28.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:51239] logged in with entity id 58170 at (42.508766278427714, 71.11071530842175, -239.27025436810376)
+[28Jul2025 04:59:28.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[28Jul2025 05:01:02.654] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 05:01:04.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:57171] logged in with entity id 59762 at (-441.23750001192093, 70.5, -240.64840571003177)
+[28Jul2025 05:01:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 05:01:05.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Ashes 'n Bones]
+[28Jul2025 05:01:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [The Most Useful Key]
+[28Jul2025 05:01:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has reached the goal [A Fast Comeback]
