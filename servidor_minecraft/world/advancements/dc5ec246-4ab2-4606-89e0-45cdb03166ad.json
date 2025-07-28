@@ -566,6 +566,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2025-07-28 04:42:22 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:goblins_encounter_success": {
     "criteria": {
       "goblins_encounter_success_0": "2025-07-28 04:20:14 +0000"
@@ -626,6 +632,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 04:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-28 04:29:08 +0000"
@@ -640,7 +652,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-07-28 04:32:23 +0000"
+      "minecraft:spider": "2025-07-28 04:32:23 +0000",
+      "minecraft:creeper": "2025-07-28 04:44:58 +0000"
     },
     "done": false
   },
@@ -716,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-28 04:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-28 04:27:21 +0000"
@@ -731,6 +750,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-28 04:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 04:44:58 +0000"
     },
     "done": true
   },
@@ -824,6 +849,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-07-28 04:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-28 04:22:58 +0000"
@@ -866,6 +897,12 @@
       "rotten_flesh": "2025-07-28 04:18:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 04:44:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {

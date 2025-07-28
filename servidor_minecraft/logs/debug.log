@@ -7695,3 +7695,31 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [28Jul2025 04:39:24.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [This is Goblin Musk]
 [28Jul2025 04:40:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Suit Up]
 [28Jul2025 04:40:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Cosmic Discoverer]
+[28Jul2025 04:42:22.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has completed the challenge [Kinda Sus]
+[28Jul2025 04:42:32.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 04:42:32.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 04:43:44.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:45:41.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Zombie
+[28Jul2025 04:45:41.759] [Server thread/DEBUG] [tombstone/]: A new grave of the player BonjoXTR was created at position [x:135, y:67, z:-473, dim:minecraft:overworld]
+[28Jul2025 04:45:41.802] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 04:45:46.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:46:02.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT moved wrongly!
+[28Jul2025 04:46:03.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Flusk Zombie
+[28Jul2025 04:46:03.092] [Server thread/DEBUG] [tombstone/]: A new grave of the player HardBNT was created at position [x:61, y:72, z:-558, dim:minecraft:overworld]
+[28Jul2025 04:46:03.114] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 04:46:05.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:47:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Sweet Dreams]
+[28Jul2025 04:47:32.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 04:47:32.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 04:48:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Here They Come]
+[28Jul2025 04:48:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Sky of Beginning]
+[28Jul2025 04:48:05.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:48:27.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 04:49:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Monster Hunter]
+[28Jul2025 04:49:48.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Flusk Zombie
+[28Jul2025 04:49:48.054] [Server thread/DEBUG] [tombstone/]: A new grave of the player BonjoXTR was created at position [x:79, y:62, z:-403, dim:minecraft:overworld]
+[28Jul2025 04:49:48.072] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 04:50:05.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 04:50:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Adventurer Zombie
+[28Jul2025 04:50:23.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player HardBNT was created at position [x:224, y:67, z:-301, dim:minecraft:overworld]
+[28Jul2025 04:50:23.128] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
