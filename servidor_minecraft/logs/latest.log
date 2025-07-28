@@ -2433,3 +2433,170 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [28Jul2025 05:43:01.483] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
 [28Jul2025 05:43:08.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [28Jul2025 05:43:15.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:44:08.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112828, l='ServerLevel[world]', x=128.69, y=70.00, z=-222.64] died, message: 'Villager hit the ground too hard whilst trying to escape Ghost'
+[28Jul2025 05:44:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has reached the goal [Strong or Careful]
+[28Jul2025 05:44:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was slain by Miner Zombie
+[28Jul2025 05:44:15.864] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[28Jul2025 05:44:46.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:46:00.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:46:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Flusk Zombie
+[28Jul2025 05:46:51.718] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 05:47:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Miner Zombie
+[28Jul2025 05:47:42.005] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:48:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was shot by Skeleton
+[28Jul2025 05:48:12.400] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[28Jul2025 05:48:24.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Zombie
+[28Jul2025 05:48:24.303] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[28Jul2025 05:48:26.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 05:49:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Sweet Dreams]
+[28Jul2025 05:49:39.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/122617, l='ServerLevel[world]', x=87.74, y=151.09, z=-247.43] died, message: 'Nitwit was slain by Flusk Zombie'
+[28Jul2025 05:49:52.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[28Jul2025 05:49:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[28Jul2025 05:55:01.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Barrel Booty]
+[28Jul2025 05:55:03.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Disme A Dozen]
+[28Jul2025 05:55:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BonjoXTR> 169 -1141
+[28Jul2025 05:56:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD died because of BonjoXTR
+[28Jul2025 05:56:33.204] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[28Jul2025 05:57:56.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD was kicked for floating too long!
+[28Jul2025 05:57:56.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Flying is not enabled on this server
+[28Jul2025 05:57:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
+[28Jul2025 05:58:05.943] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GothaxD is 7cf7ca87-d420-4497-9153-2d5e63a57084
+[28Jul2025 05:58:09.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GothaxD[/127.149.214.214:43577] logged in with entity id 131792 at (37.83362971621499, 76.27815843112444, -1120.1889632246894)
+[28Jul2025 05:58:09.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD joined the game
+[28Jul2025 05:59:58.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Barrel Booty]
+[28Jul2025 06:00:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Close Quarters]
+[28Jul2025 06:01:35.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/121373, l='ServerLevel[world]', x=44.26, y=63.00, z=-1115.30] died, message: 'Weaponsmith hit the ground too hard'
+[28Jul2025 06:01:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was shot by Aetherial Glaze
+[28Jul2025 06:01:53.589] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 06:02:16.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 06:02:26.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Disconnected
+[28Jul2025 06:02:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
+[28Jul2025 06:02:34.045] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GothaxD is 7cf7ca87-d420-4497-9153-2d5e63a57084
+[28Jul2025 06:02:37.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GothaxD[/127.149.214.214:54005] logged in with entity id 133864 at (36.09306067192909, 121.33958434036022, -1119.9281142509456)
+[28Jul2025 06:02:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD joined the game
+[28Jul2025 06:03:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Can Someone Ventilate]
+[28Jul2025 06:09:46.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR was kicked for floating too long!
+[28Jul2025 06:09:47.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Flying is not enabled on this server
+[28Jul2025 06:09:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 06:09:54.666] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 06:09:56.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:35207] logged in with entity id 137657 at (-9.727719867190075, 79.16017123466071, -1055.2688847947145)
+[28Jul2025 06:09:56.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 06:10:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was shot by Aetherial Glaze
+[28Jul2025 06:10:01.617] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[28Jul2025 06:11:09.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Best Friends Forever]
+[28Jul2025 06:13:46.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR was kicked for floating too long!
+[28Jul2025 06:13:46.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Flying is not enabled on this server
+[28Jul2025 06:13:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 06:13:51.708] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 06:13:53.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:45537] logged in with entity id 139911 at (32.664853892915, 80.16017123466071, -1051.4712340519973)
+[28Jul2025 06:13:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 06:13:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR fell from a high place
+[28Jul2025 06:13:57.271] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[28Jul2025 06:15:32.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR was kicked for floating too long!
+[28Jul2025 06:15:32.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Flying is not enabled on this server
+[28Jul2025 06:15:32.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 06:15:36.015] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 06:15:37.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:37973] logged in with entity id 140217 at (30.363323592257107, 204.97360021734113, -1120.6988671864813)
+[28Jul2025 06:15:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 06:16:18.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Disconnected
+[28Jul2025 06:16:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
+[28Jul2025 06:16:40.145] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[28Jul2025 06:16:43.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.229.111.180:41171] logged in with entity id 140822 at (-5.5, 87.0, -4.5)
+[28Jul2025 06:16:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[28Jul2025 06:16:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Ice and Fire]
+[28Jul2025 06:17:03.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/640, l='ServerLevel[world]', x=60.44, y=72.00, z=76.64] died, message: 'Villager was slain by Adventurer Zombie'
+[28Jul2025 06:18:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BonjoXTR> -319 -909
+[28Jul2025 06:18:44.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement ['X' Marks the Spot]
+[28Jul2025 06:18:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Suit Up]
+[28Jul2025 06:20:02.359] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:20:46.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was slain by Adventurer Zombie
+[28Jul2025 06:20:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Your First Grave]
+[28Jul2025 06:20:46.821] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[28Jul2025 06:21:09.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[28Jul2025 06:21:14.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios was kicked for floating too long!
+[28Jul2025 06:21:14.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Flying is not enabled on this server
+[28Jul2025 06:21:14.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[28Jul2025 06:21:21.744] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[28Jul2025 06:21:25.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.229.111.180:44429] logged in with entity id 146640 at (28.69034692547398, 81.14998983419157, 78.57530889183285)
+[28Jul2025 06:21:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[28Jul2025 06:21:38.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[28Jul2025 06:21:38.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 06:21:46.707] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 06:21:48.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:41217] logged in with entity id 147264 at (-540.0099580951136, 66.52442408821369, -1144.8760825488246)
+[28Jul2025 06:21:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 06:22:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Disme A Dozen]
+[28Jul2025 06:22:20.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/725, l='ServerLevel[world]', x=51.37, y=67.00, z=108.08] died, message: 'Librarian was slain by Adventurer Zombie'
+[28Jul2025 06:23:33.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 06:23:36.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Barrel Booty]
+[28Jul2025 06:24:03.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[28Jul2025 06:24:03.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[28Jul2025 06:24:14.862] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[28Jul2025 06:24:16.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:45653] logged in with entity id 150374 at (-679.9490998047376, 79.0, -1016.8355862592542)
+[28Jul2025 06:24:16.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[28Jul2025 06:24:49.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28Jul2025 06:25:50.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Disconnected
+[28Jul2025 06:25:50.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[28Jul2025 06:25:59.187] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[28Jul2025 06:26:02.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.229.111.180:57355] logged in with entity id 153588 at (380.3919599361386, 62.18702029707922, -27.749116071189363)
+[28Jul2025 06:26:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[28Jul2025 06:28:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Goblin's Tyranny]
+[28Jul2025 06:31:10.320] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:33.049] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:36.121] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:36.122] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:36.148] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:36.148] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:36.149] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:46.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:46.245] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:46.245] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:32:46.245] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:46.417] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:46.418] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:51.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=74}
+[28Jul2025 06:32:51.998] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=75}
+[28Jul2025 06:32:51.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:32:51.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:51.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:32:51.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:51.999] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:32:51.999] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:51.999] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-59, z=80}
+[28Jul2025 06:32:51.999] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:32:51.999] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:52.134] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:32:52.136] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[28Jul2025 06:32:52.136] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[28Jul2025 06:32:52.136] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:33:27.435] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:33:27.435] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:33:27.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:33:27.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:33:27.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[28Jul2025 06:33:27.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[28Jul2025 06:33:59.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was doomed to fall by Ghost
+[28Jul2025 06:33:59.429] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[28Jul2025 06:34:09.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Your First Receptacle]
+[28Jul2025 06:34:54.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has reached the goal [Chain Death]
+[28Jul2025 06:34:54.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was slain by Ghost
+[28Jul2025 06:34:54.355] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[28Jul2025 06:35:13.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/167438, l='ServerLevel[world]', x=6.85, y=63.00, z=-1124.31] died, message: 'Farmer was slain by Ghost'
+[28Jul2025 06:35:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Who You Gonna Call?]
+[28Jul2025 06:36:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has reached the goal [Home Sweet Home]
+[28Jul2025 06:36:28.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/167369, l='ServerLevel[world]', x=34.70, y=234.05, z=-1114.15] died, message: 'Fisherman drowned'
+[28Jul2025 06:36:48.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Disconnected
+[28Jul2025 06:36:48.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[28Jul2025 06:36:55.628] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[28Jul2025 06:36:59.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.229.111.180:60063] logged in with entity id 170037 at (39.0173467711831, 236.0, -1077.9345298307278)
+[28Jul2025 06:36:59.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[28Jul2025 06:37:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Acquire Hardware]
+[28Jul2025 06:37:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Diamonds!]
+[28Jul2025 06:39:29.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/170050, l='ServerLevel[world]', x=56.51, y=65.00, z=-1100.69] died, message: 'Villager hit the ground too hard whilst trying to escape Aetherial Glaze'
+[28Jul2025 06:39:38.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was shot by Aetherial Glaze
+[28Jul2025 06:39:38.226] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[28Jul2025 06:40:44.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Close Quarters]
+[28Jul2025 06:41:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Isn't It Iron Pick]
+[28Jul2025 06:41:24.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Can Someone Ventilate]
+[28Jul2025 06:43:54.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR was kicked for floating too long!
+[28Jul2025 06:43:54.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Flying is not enabled on this server
+[28Jul2025 06:43:54.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
