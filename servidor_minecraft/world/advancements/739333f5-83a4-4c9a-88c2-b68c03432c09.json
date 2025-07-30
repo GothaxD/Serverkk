@@ -1653,5 +1653,23 @@
     },
     "done": true
   },
+  "malum:recipes/misc/coal_from_fragment": {
+    "criteria": {
+      "has_coal": "2025-07-30 00:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-30 00:30:49 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/coal_fragment": {
+    "criteria": {
+      "has_coal": "2025-07-30 00:30:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
