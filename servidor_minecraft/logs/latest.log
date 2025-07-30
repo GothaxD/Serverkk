@@ -717,3 +717,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [30Jul2025 00:20:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
 [30Jul2025 00:32:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT was slain by Marine Zombie
 [30Jul2025 00:32:26.430] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[30Jul2025 00:37:57.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['HardBNT'/4626, l='ServerLevel[world]', x=169.40, y=44.31, z=-257.60] died: HardBNT was slain by HardBNT
+[30Jul2025 00:47:11.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4560, l='ServerLevel[world]', x=51.70, y=76.75, z=-223.30] died, message: 'Farmer was slain by Ghost'
+[30Jul2025 00:47:19.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/4556, l='ServerLevel[world]', x=96.35, y=67.00, z=-277.33] died, message: 'Weaponsmith was slain by Zombie'
