@@ -751,3 +751,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [30Jul2025 03:15:59.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Sweet Dreams]
 [30Jul2025 03:16:06.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_BARTOtuvieja lost connection: Disconnected
 [30Jul2025 03:16:06.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja left the game
+[30Jul2025 03:16:18.648] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[30Jul2025 03:16:21.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:58881] logged in with entity id 6481 at (40.81422054723224, 84.0, -214.79389648188166)
+[30Jul2025 03:16:21.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
+[30Jul2025 03:16:28.486] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GothaxD is 7cf7ca87-d420-4497-9153-2d5e63a57084
+[30Jul2025 03:16:31.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GothaxD[/127.149.214.214:38635] logged in with entity id 6589 at (31.110870011515495, 64.0, -1074.797017100585)
+[30Jul2025 03:16:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD joined the game
+[30Jul2025 03:16:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [A Moment in Time]
+[30Jul2025 03:18:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Monster Hunter]
+[30Jul2025 03:18:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Knowledge of Death]
+[30Jul2025 03:18:47.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [A Strange Grave Dust]
+[30Jul2025 03:19:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Knowledge raises the soul]
+[30Jul2025 03:19:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Ashes 'n Bones]
+[30Jul2025 03:20:13.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was shot by Aetherial Glaze
+[30Jul2025 03:20:13.684] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[30Jul2025 03:20:17.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6635, l='ServerLevel[world]', x=63.89, y=64.00, z=-1114.30] died, message: 'Villager hit the ground too hard'
+[30Jul2025 03:22:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was doomed to fall by Aetherial Glaze
+[30Jul2025 03:22:44.892] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[30Jul2025 03:24:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Sky of Beginning]
+[30Jul2025 03:25:42.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Suit Up]
+[30Jul2025 03:26:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Acquire Hardware]
+[30Jul2025 03:26:16.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Isn't It Iron Pick]

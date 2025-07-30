@@ -2196,5 +2196,29 @@
     },
     "done": true
   },
+  "malum:recipes/misc/encyclopedia_arcana": {
+    "criteria": {
+      "has_soulstone": "2025-07-30 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-30 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-30 03:19:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-30 03:19:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
