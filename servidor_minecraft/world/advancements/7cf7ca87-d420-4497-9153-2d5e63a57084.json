@@ -2660,7 +2660,151 @@
     },
     "done": true
   },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2025-07-28 06:03:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_shower_towel": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_red": {
+    "criteria": {
+      "oak_chair_classic_red": "2025-07-28 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-28 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2025-07-28 06:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-28 06:12:39 +0000"
     },
@@ -2678,69 +2822,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/acacia_shelf": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_sofa": {
-    "criteria": {
-      "has_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_curtain": {
-    "criteria": {
-      "has_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_glazed_terracotta": {
-    "criteria": {
-      "has_pink_terracotta": "2025-07-28 06:12:02 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_table": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/orange_lamp": {
     "criteria": {
       "has_wool": "2025-07-28 06:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_chair": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
     },
     "done": true
   },
@@ -2756,69 +2840,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/red_lamp": {
-    "criteria": {
-      "has_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-07-28 06:12:49 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/orange_stool": {
     "criteria": {
       "has_wool": "2025-07-28 06:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-07-28 06:10:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/red_shower_towel": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 06:08:58 +0000"
     },
     "done": true
   },
@@ -2834,45 +2858,21 @@
     },
     "done": true
   },
-  "ancient_elements:can_someone_ventilate": {
-    "criteria": {
-      "can_someone_ventilate": "2025-07-28 06:03:45 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/orange_curtain": {
     "criteria": {
       "has_wool": "2025-07-28 06:12:43 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/red_stool": {
-    "criteria": {
-      "has_wool": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_red": {
-    "criteria": {
-      "oak_chair_classic_red": "2025-07-28 06:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-07-28 06:12:39 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/orange_shower_towel": {
     "criteria": {
       "has_orange_wool": "2025-07-28 06:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-28 06:12:49 +0000"
     },
     "done": true
   },
