@@ -716,3 +716,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [30Jul2025 02:30:43.293] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [30Jul2025 02:31:32.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Disconnected
 [30Jul2025 02:31:32.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[30Jul2025 02:52:27.173] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[30Jul2025 02:52:30.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:38059] logged in with entity id 2700 at (149.4593484656701, 29.0, -226.44968493862766)
+[30Jul2025 02:52:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[30Jul2025 02:53:58.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Easy Opening]
+[30Jul2025 02:53:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Discreet Search]
