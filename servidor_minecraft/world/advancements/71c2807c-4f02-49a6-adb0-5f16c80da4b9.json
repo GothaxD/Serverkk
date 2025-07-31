@@ -3886,6 +3886,12 @@
     },
     "done": true
   },
+  "ancient_elements:pickaxe_that_smelts_ores": {
+    "criteria": {
+      "pickaxe_that_smelts_ores": "2025-07-31 07:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-31 07:14:38 +0000"
@@ -3913,6 +3919,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-07-31 07:13:53 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:gettingan_upgrade_2": {
+    "criteria": {
+      "gettingan_upgrade_2": "2025-07-31 07:17:46 +0000"
     },
     "done": true
   },
@@ -3955,6 +3967,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-07-31 07:14:38 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:skin_made_of_fire": {
+    "criteria": {
+      "skin_made_of_fire": "2025-07-31 07:17:02 +0000"
     },
     "done": true
   },

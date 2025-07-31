@@ -1801,3 +1801,37 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 07:20:03.112] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
 [31Jul2025 07:20:07.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:45379] logged in with entity id 313229 at (-439.1525485315214, 68.0, -993.5)
 [31Jul2025 07:20:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 07:20:10.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Jul2025 07:20:21.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=7, z=-211} BlockPos{x=-9, y=6, z=-212}
+[31Jul2025 07:20:25.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:25.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=8, z=-210} BlockPos{x=-9, y=9, z=-211}
+[31Jul2025 07:20:28.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[31Jul2025 07:20:29.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[31Jul2025 07:20:29.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 07:20:36.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Hidden in the Depths]
+[31Jul2025 07:20:46.874] [User Authenticator #33/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:21:03.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f3f6ba6[id=dc5ec246-4ab2-4606-89e0-45cdb03166ad,name=BonjoXTR,properties={textures=[com.mojang.authlib.properties.Property@3c20f0a8]},legacy=false] (/127.241.39.38:42357) lost connection: Disconnected
+[31Jul2025 07:21:07.261] [User Authenticator #34/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:21:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has completed the challenge [Is it Hot in here?]
+[31Jul2025 07:21:09.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:48091] logged in with entity id 314078 at (-242.00673427387548, 15.0, -439.26354905176464)
+[31Jul2025 07:21:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 07:21:19.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[31Jul2025 07:22:11.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=6, z=-226} BlockPos{x=3, y=6, z=-223}
+[31Jul2025 07:22:11.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=6, z=-226} BlockPos{x=3, y=6, z=-223}
+[31Jul2025 07:22:11.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=6, z=-226} BlockPos{x=3, y=6, z=-223}
+[31Jul2025 07:22:11.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=6, z=-226} BlockPos{x=3, y=6, z=-223}
+[31Jul2025 07:22:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has reached the goal [IT BURNS]
+[31Jul2025 07:22:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Enchanter]
+[31Jul2025 07:22:46.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=7, z=-236} BlockPos{x=0, y=7, z=-237}
+[31Jul2025 07:26:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Pickaxe that Smelts Ores?]
+[31Jul2025 07:27:07.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has reached the goal [Home Sweet Home]
+[31Jul2025 07:28:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has made the advancement [Hidden in the Depths]
+[31Jul2025 07:29:47.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[31Jul2025 07:30:06.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[31Jul2025 07:30:24.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3506ms or 70 ticks behind

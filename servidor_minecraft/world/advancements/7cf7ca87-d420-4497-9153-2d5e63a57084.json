@@ -4287,6 +4287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-31 07:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-31 06:25:02 +0000"
@@ -4302,6 +4308,12 @@
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-07-31 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-31 07:20:36 +0000"
     },
     "done": true
   },
@@ -4444,6 +4456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-31 07:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-31 04:12:57 +0000"
@@ -4489,6 +4507,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-31 06:00:42 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-31 07:21:08 +0000"
     },
     "done": true
   },

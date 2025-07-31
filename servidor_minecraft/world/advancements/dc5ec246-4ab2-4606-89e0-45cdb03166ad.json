@@ -4541,5 +4541,11 @@
     },
     "done": true
   },
+  "ancient_elements:it_burns": {
+    "criteria": {
+      "it_burns": "2025-07-31 07:22:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
