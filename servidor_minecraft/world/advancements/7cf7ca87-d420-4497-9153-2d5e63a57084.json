@@ -4317,6 +4317,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-31 07:01:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shelf": {
     "criteria": {
       "has_planks": "2025-07-31 06:02:41 +0000"
