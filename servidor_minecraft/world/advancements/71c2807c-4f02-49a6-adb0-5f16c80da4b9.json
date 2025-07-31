@@ -3739,12 +3739,6 @@
     },
     "done": true
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-07-31 04:37:12 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
       "has_slab": "2025-07-31 04:36:39 +0000"
@@ -3772,6 +3766,12 @@
   "pfm:recipes/building_blocks/spruce_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-07-31 04:36:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-31 04:37:12 +0000"
     },
     "done": true
   },
