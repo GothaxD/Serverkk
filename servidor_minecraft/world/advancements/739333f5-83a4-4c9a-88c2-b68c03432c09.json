@@ -3879,5 +3879,11 @@
     },
     "done": true
   },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-07-31 05:36:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

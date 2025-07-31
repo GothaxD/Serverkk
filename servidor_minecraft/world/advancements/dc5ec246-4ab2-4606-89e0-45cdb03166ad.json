@@ -4510,6 +4510,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-31 05:37:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-07-31 05:32:51 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:youdidnt_thinked_fast": {
+    "criteria": {
+      "youdidnt_thinked_fast": "2025-07-31 05:39:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2025-07-31 05:30:04 +0000"
