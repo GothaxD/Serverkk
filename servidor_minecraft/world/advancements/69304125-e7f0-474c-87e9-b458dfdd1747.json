@@ -4014,6 +4014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-31 06:47:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 05:48:37 +0000"
@@ -4065,6 +4071,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-31 06:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-31 06:47:32 +0000"
     },
     "done": true
   },
@@ -4194,6 +4206,12 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2025-07-31 06:47:32 +0000"
+    },
+    "done": true
+  },
   "malum:recipes/misc/soul_stained_steel_hoe": {
     "criteria": {
       "has_soul_stained_steel": "2025-07-31 05:44:50 +0000"
@@ -4215,6 +4233,12 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 05:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 06:47:32 +0000"
     },
     "done": true
   },
@@ -4311,6 +4335,12 @@
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 05:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 06:47:32 +0000"
     },
     "done": true
   },

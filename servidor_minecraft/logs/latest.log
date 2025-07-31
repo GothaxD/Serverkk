@@ -1622,3 +1622,25 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 06:46:09.474] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
 [31Jul2025 06:47:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GothaxD: Teleported PipeDios to BonjoXTR]
 [31Jul2025 06:48:44.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 06:50:47.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=72, z=-169} BlockPos{x=-78, y=70, z=-171}
+[31Jul2025 06:50:47.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=72, z=-169} BlockPos{x=-78, y=70, z=-171}
+[31Jul2025 06:51:06.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:51:40.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 06:52:31.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=17, z=-227} BlockPos{x=-39, y=16, z=-227}
+[31Jul2025 06:52:32.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=17, z=-227} BlockPos{x=-39, y=16, z=-227}
+[31Jul2025 06:52:35.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=17, z=-224} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:52:35.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=17, z=-224} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:52:35.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=17, z=-224} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:52:35.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=17, z=-224} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:52:35.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=16, z=-223} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:52:35.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=17, z=-223} BlockPos{x=-36, y=18, z=-224}
+[31Jul2025 06:53:50.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=15, z=-255} BlockPos{x=-53, y=14, z=-255}
+[31Jul2025 06:53:57.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=13, z=-259} BlockPos{x=-52, y=14, z=-258}
+[31Jul2025 06:53:57.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=13, z=-259} BlockPos{x=-52, y=14, z=-258}
+[31Jul2025 06:56:15.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=17, z=-224} BlockPos{x=-75, y=17, z=-222}
+[31Jul2025 06:56:15.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=17, z=-224} BlockPos{x=-75, y=17, z=-222}
+[31Jul2025 06:56:40.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=15, z=-130} BlockPos{x=-110, y=15, z=-130}
+[31Jul2025 06:57:10.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:58:34.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 06:58:55.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5287ms or 105 ticks behind
+[31Jul2025 06:59:16.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
