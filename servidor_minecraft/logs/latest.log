@@ -948,3 +948,110 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 04:12:26.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
 [31Jul2025 04:12:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
 [31Jul2025 04:12:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Enchanter]
+[31Jul2025 04:14:12.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:14:54.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:15:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BonjoXTR> -372 -341
+[31Jul2025 04:15:21.748] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 04:15:25.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:39549] logged in with entity id 53246 at (-457.12687838044275, 67.0, -1000.5537669834652)
+[31Jul2025 04:15:25.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 04:15:30.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:16:46.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:17:12.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:17:43.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:18:05.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:18:27.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:18:40.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:20:14.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:20:21.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:20:30.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:20:42.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 04:20:57.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -2.259019176260807,4.907413092412128,9.14605028437586
+[31Jul2025 04:20:57.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -2.50736825644546,5.323538291718023,10.160808534432135
+[31Jul2025 04:20:57.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -2.81192298683078,5.666492224168934,11.09392344887101
+[31Jul2025 04:20:57.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -3.170946236136018,5.919033185809923,11.937769386110176
+[31Jul2025 04:20:57.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -3.5792655693881272,6.084741528595089,12.693498458500471
+[31Jul2025 04:20:57.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -4.031566807978379,6.167055822608006,13.364870478775401
+[31Jul2025 04:20:57.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -4.520840985834468,6.167055822608006,13.943640570995512
+[31Jul2025 04:20:57.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -4.957175710221605,6.157451822421081,14.459787754112767
+[31Jul2025 04:20:57.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -4.957175710221605,7.157451822421081,14.459787754112767
+[31Jul2025 04:20:57.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 1.500513476516744
+[31Jul2025 04:20:57.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 2.4472613838838697
+[31Jul2025 04:20:57.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 1.5213973993622858
+[31Jul2025 04:20:57.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 1.6141576977711338
+[31Jul2025 04:20:57.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 1.723063295636166
+[31Jul2025 04:20:59.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[31Jul2025 04:22:03.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:22:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios fell from a high place
+[31Jul2025 04:22:20.016] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[31Jul2025 04:22:51.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:22:59.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=65, z=-466} BlockPos{x=-275, y=66, z=-468}
+[31Jul2025 04:22:59.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=65, z=-466} BlockPos{x=-275, y=66, z=-468}
+[31Jul2025 04:23:00.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:23:05.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:23:51.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:23:54.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:24:49.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:25:32.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:26:20.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:26:26.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:27:00.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31Jul2025 04:27:19.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:27:23.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:27:42.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:27:51.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:28:08.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[31Jul2025 04:28:43.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:28:52.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:28:57.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 04:29:32.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:29:38.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:29:51.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:30:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [A Terrible Fortress]
+[31Jul2025 04:30:26.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31Jul2025 04:30:34.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 04:30:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 04:31:08.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:31:14.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:31:25.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Jul2025 04:31:42.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[31Jul2025 04:31:59.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[31Jul2025 04:32:24.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 04:32:59.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:33:04.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[31Jul2025 04:33:06.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:33:44.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD was doomed to fall by Hoglin
+[31Jul2025 04:33:44.606] [Server thread/INFO] [tombstone/]: The player GothaxD has successfully been saved
+[31Jul2025 04:33:55.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:33:58.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Disconnected
+[31Jul2025 04:33:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[31Jul2025 04:34:44.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:34:49.277] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 04:34:52.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:50419] logged in with entity id 73795 at (-227.30000001192093, 83.0, -248.3566053127134)
+[31Jul2025 04:34:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 04:34:58.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:35:37.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:36:11.135] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[31Jul2025 04:36:14.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.217.236.5:52149] logged in with entity id 74896 at (40.107730026310435, 294.9625, 131.57806462354273)
+[31Jul2025 04:36:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[31Jul2025 04:37:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Penteconter]
+[31Jul2025 04:38:09.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:38:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Into Fire]
+[31Jul2025 04:39:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Oh Shiny]
+[31Jul2025 04:40:47.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:41:01.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:41:08.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:42:22.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 04:42:23.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -8.284743197166563,-0.05171293254727516,-6.101096792425778
+[31Jul2025 04:42:23.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -8.95188643491997,-0.08560504530504431,-6.5266404724012546
+[31Jul2025 04:42:23.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved too quickly! -9.628400115129693,-0.10761974646334238,-6.938437973553619
+[31Jul2025 04:42:40.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[31Jul2025 04:43:04.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:43:25.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
