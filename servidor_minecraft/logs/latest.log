@@ -1601,3 +1601,24 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 06:38:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios burned to death
 [31Jul2025 06:38:06.642] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
 [31Jul2025 06:38:30.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 06:38:42.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[31Jul2025 06:39:01.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4592ms or 91 ticks behind
+[31Jul2025 06:39:14.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[31Jul2025 06:39:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 06:39:20.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Jul2025 06:39:33.116] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 06:39:35.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:36571] logged in with entity id 252474 at (-441.6845678986877, 67.0, -1028.3441979637253)
+[31Jul2025 06:39:35.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 06:39:38.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[31Jul2025 06:39:57.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
+[31Jul2025 06:40:14.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[31Jul2025 06:40:34.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 06:40:52.122] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 06:40:52.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 06:40:55.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:39347] logged in with entity id 253737 at (-462.69999998807907, 67.0, -1000.3000000119209)
+[31Jul2025 06:40:55.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 06:41:09.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[31Jul2025 06:46:09.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was cosmic shocked whilst escaping BonjoXTR
+[31Jul2025 06:46:09.474] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[31Jul2025 06:47:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GothaxD: Teleported PipeDios to BonjoXTR]
+[31Jul2025 06:48:44.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
