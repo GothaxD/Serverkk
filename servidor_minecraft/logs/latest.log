@@ -1355,3 +1355,39 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 05:45:32.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [31Jul2025 05:45:43.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [31Jul2025 05:45:58.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 05:46:34.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:46:39.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 05:46:57.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[31Jul2025 05:47:15.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Jul2025 05:47:18.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:47:18.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:48:09.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:48:43.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[31Jul2025 05:49:02.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:49:02.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:49:03.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4216ms or 84 ticks behind
+[31Jul2025 05:49:21.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[31Jul2025 05:49:40.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 05:49:58.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[31Jul2025 05:50:27.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Jul2025 05:50:30.512] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[31Jul2025 05:52:37.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Jul2025 05:52:56.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Jul2025 05:52:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [This is Goblin Musk]
+[31Jul2025 05:53:14.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[31Jul2025 05:53:31.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[31Jul2025 05:54:03.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[31Jul2025 05:54:10.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved too quickly! 9.830607786284872,-0.043547310251966564,-2.8377580553531345
+[31Jul2025 05:54:10.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved too quickly! 10.600007472622792,-0.013670256229346478,-3.1246817704603984
+[31Jul2025 05:54:10.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved too quickly! 11.370052291567845,-0.041669049728255914,-3.4061763374883185
+[31Jul2025 05:54:13.959] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jul2025 05:54:13.959] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[31Jul2025 05:54:13.959] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jul2025 05:54:13.959] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[31Jul2025 05:54:16.002] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[31Jul2025 05:55:41.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:56:19.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[31Jul2025 05:56:38.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 0.26364305303320634
+[31Jul2025 05:56:38.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 0.6245258972397778
+[31Jul2025 05:56:38.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 0.981177085090053
+[31Jul2025 05:56:38.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 1.3359462833183215
