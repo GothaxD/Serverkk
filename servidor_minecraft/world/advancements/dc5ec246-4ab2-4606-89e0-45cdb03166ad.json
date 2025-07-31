@@ -49,6 +49,7 @@
       "minecraft:forest": "2025-07-27 07:40:01 +0000",
       "minecraft:lush_caves": "2025-07-30 05:12:43 +0000",
       "minecraft:ocean": "2025-07-28 05:46:17 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-31 03:37:54 +0000",
       "minecraft:flower_forest": "2025-07-28 05:40:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-28 06:20:02 +0000",
       "minecraft:deep_dark": "2025-07-30 05:23:36 +0000",
@@ -890,6 +891,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-30 05:01:29 +0000",
       "minecraft:ghast": "2025-07-30 07:14:46 +0000",
+      "minecraft:hoglin": "2025-07-31 03:58:18 +0000",
       "minecraft:spider": "2025-07-28 04:32:23 +0000",
       "minecraft:creeper": "2025-07-28 04:44:58 +0000",
       "minecraft:zombified_piglin": "2025-07-30 07:16:27 +0000",
@@ -3958,6 +3960,96 @@
   "botania:recipes/misc/incense_stick": {
     "criteria": {
       "has_item": "2025-07-30 08:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-31 03:41:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-31 03:52:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_wooden_slab": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-31 03:58:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-31 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 03:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-31 03:58:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-31 03:44:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-31 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-31 03:58:20 +0000"
     },
     "done": true
   },
