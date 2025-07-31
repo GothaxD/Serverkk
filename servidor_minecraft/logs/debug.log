@@ -7860,3 +7860,71 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 05:56:38.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 0.6245258972397778
 [31Jul2025 05:56:38.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 0.981177085090053
 [31Jul2025 05:56:38.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of PipeDios) moved wrongly! 1.3359462833183215
+[31Jul2025 05:57:07.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[31Jul2025 05:57:25.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[31Jul2025 05:57:44.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3995ms or 79 ticks behind
+[31Jul2025 05:58:03.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4002ms or 80 ticks behind
+[31Jul2025 05:58:28.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9969ms or 199 ticks behind
+[31Jul2025 05:58:41.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Hidden in the Skies]
+[31Jul2025 05:58:50.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
+[31Jul2025 05:59:14.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9206ms or 184 ticks behind
+[31Jul2025 05:59:40.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11467ms or 229 ticks behind
+[31Jul2025 05:59:58.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! -5.031255197796497,2.3725314961368724,10.135032618750984
+[31Jul2025 05:59:58.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! -5.78310934325998,3.2023351248283376,11.653590579731372
+[31Jul2025 05:59:58.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! -4.177469358918984,4.211304302373989,8.438488546991152
+[31Jul2025 05:59:58.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! -4.758192576969577,4.62742950167987,9.611873669228657
+[31Jul2025 05:59:58.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 7.820910101608433,-5.686883317210686,-15.801768933378185
+[31Jul2025 05:59:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 7.820910101608433,-5.686883317210686,-15.801768933378185
+[31Jul2025 05:59:58.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! -4.700292757035527,2.958154767897213,9.493027588493646
+[31Jul2025 06:00:09.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13418ms or 268 ticks behind
+[31Jul2025 06:00:11.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 7.8971575985125355,2.9910423775005768,6.702059359839609
+[31Jul2025 06:00:11.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 9.202564382417677,3.860069821369791,7.659390382100582
+[31Jul2025 06:00:11.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 10.373943608278978,4.609462373007574,8.518207157322195
+[31Jul2025 06:00:11.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 11.42581450915418,5.244229622683974,9.289143982050291
+[31Jul2025 06:00:11.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 12.371160681140168,5.768184908225749,9.981632880381198
+[31Jul2025 06:00:11.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 7.545916981401433,4.509732778409358,5.529677514959303
+[31Jul2025 06:00:20.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 06:00:20.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 06:00:20.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 2.955333152524304,-7.0810844455393465,6.600937122516825
+[31Jul2025 06:00:20.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.0818375727474177,-7.481110197733216,6.876460503680164
+[31Jul2025 06:00:20.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.2032001501738705,-7.881966299258366,7.124353058535689
+[31Jul2025 06:00:20.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.319616320119394,-8.283969250683015,7.348708867473988
+[31Jul2025 06:00:20.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.431224355207746,-8.686700739125826,7.5529284469879485
+[31Jul2025 06:00:20.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.5381962269611904,-9.089104637873533,7.739787998860379
+[31Jul2025 06:00:20.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.640790695049418,-9.492359869043725,7.911527320023197
+[31Jul2025 06:00:20.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of GothaxD) moved too quickly! 3.7393200778344635,-9.897305501294184,8.070002823687787
+[31Jul2025 06:00:36.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12786ms or 255 ticks behind
+[31Jul2025 06:00:45.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:00:45.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:01:00.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9134ms or 182 ticks behind
+[31Jul2025 06:01:25.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9184ms or 183 ticks behind
+[31Jul2025 06:01:51.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11085ms or 221 ticks behind
+[31Jul2025 06:02:12.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[31Jul2025 06:02:33.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5653ms or 113 ticks behind
+[31Jul2025 06:02:46.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:02:50.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[31Jul2025 06:02:53.036] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:02:59.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:03:06.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:03:10.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[31Jul2025 06:03:11.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:03:13.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [A Terrible Fortress]
+[31Jul2025 06:03:29.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4377ms or 87 ticks behind
+[31Jul2025 06:03:48.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[31Jul2025 06:04:06.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[31Jul2025 06:04:26.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4136ms or 82 ticks behind
+[31Jul2025 06:04:45.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
+[31Jul2025 06:05:03.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[31Jul2025 06:05:21.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[31Jul2025 06:05:38.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[31Jul2025 06:05:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT burned to death
+[31Jul2025 06:05:40.406] [Server thread/DEBUG] [tombstone/]: A new grave of the player HardBNT was created at position [x:-48, y:86, z:-251, dim:minecraft:the_nether]
+[31Jul2025 06:05:40.409] [Server thread/INFO] [tombstone/]: The player HardBNT has successfully been saved
+[31Jul2025 06:06:01.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 06:06:18.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[31Jul2025 06:06:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has completed the challenge [Is it Hot in here?]
+[31Jul2025 06:06:36.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 06:06:54.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 06:06:54.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 06:06:55.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4094ms or 81 ticks behind
+[31Jul2025 06:07:14.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3882ms or 77 ticks behind
