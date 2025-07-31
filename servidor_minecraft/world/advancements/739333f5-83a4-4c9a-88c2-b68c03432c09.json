@@ -3673,5 +3673,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-31 04:04:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

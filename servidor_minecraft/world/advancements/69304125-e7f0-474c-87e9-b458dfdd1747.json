@@ -3448,33 +3448,9 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-07-31 03:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-31 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-31 03:48:23 +0000"
-    },
-    "done": true
-  },
   "malum:recipes/misc/brilliance_from_raw_smelting": {
     "criteria": {
       "has_brilliance": "2025-07-31 03:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-07-31 03:45:44 +0000"
     },
     "done": true
   },
@@ -3490,12 +3466,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-07-31 03:45:44 +0000"
-    },
-    "done": true
-  },
   "malum:recipes/misc/brilliance_from_block": {
     "criteria": {
       "has_brilliance": "2025-07-31 03:44:36 +0000"
@@ -3508,33 +3478,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-31 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-31 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/transportation/ghost_rail": {
-    "criteria": {
-      "has_item": "2025-07-31 03:45:44 +0000"
-    },
-    "done": true
-  },
   "malum:recipes/misc/block_of_brilliance": {
     "criteria": {
       "has_brilliance": "2025-07-31 03:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-07-31 03:45:44 +0000"
     },
     "done": true
   },
@@ -3556,21 +3502,154 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-31 03:48:23 +0000"
-    },
-    "done": true
-  },
   "malum:recipes/misc/brilliance_from_blasting": {
     "criteria": {
       "has_brilliance": "2025-07-31 03:44:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-31 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-31 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-07-31 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-31 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-31 03:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-31 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/experience_bottle_from_brilliance": {
+    "criteria": {
+      "has_brilliance": "2025-07-31 04:03:12 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/block_of_hallowed_gold": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/gilded_ring": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/spirit_jar": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/hallowed_gold_nugget": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/spectral_optic": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/runic_brooch": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/gilded_belt": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/hallowed_gold_from_block": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/hallowed_gold_from_nuggets": {
+    "criteria": {
+      "has_hallowed_gold": "2025-07-31 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-31 04:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-31 04:09:02 +0000",
+      "minecraft:cow": "2025-07-31 04:08:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-31 04:08:13 +0000"
     },
     "done": true
   },

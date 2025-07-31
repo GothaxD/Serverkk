@@ -872,3 +872,79 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 04:02:48.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [31Jul2025 04:02:49.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.3848561408168081
 [31Jul2025 04:02:49.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.6096832993607393
+[31Jul2025 04:03:03.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[31Jul2025 04:03:03.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:03:49.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:03:56.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -1.6529940463035757,1.0,-10.015172048794595
+[31Jul2025 04:03:56.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -1.9256170257712029,1.0,-10.4160648226569
+[31Jul2025 04:03:56.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -2.183404385565666,1.0,-10.846729600674866
+[31Jul2025 04:03:56.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -2.420619780647172,1.0,-11.29941088762728
+[31Jul2025 04:03:56.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -2.6386234615206092,1.0,-11.767358880838977
+[31Jul2025 04:03:56.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -2.8445699477778703,1.0,-12.244184801637992
+[31Jul2025 04:03:56.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -3.0434566916258916,1.0,-12.72600001708268
+[31Jul2025 04:03:56.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -3.2385659080668177,1.0,-13.210484904616463
+[31Jul2025 04:03:56.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -3.43165384490797,1.0,-13.6963982804576
+[31Jul2025 04:03:56.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -3.6411883596682912,1.0,-14.1754106583947
+[31Jul2025 04:03:56.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -3.865777501738222,1.0,-14.64758526767261
+[31Jul2025 04:03:56.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -4.1871089141195625,1.0,-15.045926750153932
+[31Jul2025 04:03:56.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -4.560205186511752,1.0,-15.404761598560135
+[31Jul2025 04:03:56.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -4.945102160435596,0.9231679985046384,-15.762202146327333
+[31Jul2025 04:03:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.167261662908658,0.7725465413369861,-15.972281059810303
+[31Jul2025 04:03:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.3683727664959235,0.5510576895623913,-16.179000148734904
+[31Jul2025 04:03:56.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.528472960312797,0.3725104271835633,-16.360516812884896
+[31Jul2025 04:03:56.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.656370247164631,0.22762937139268047,-16.522280997822175
+[31Jul2025 04:03:56.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.758817017535051,0.10914262196005353,-16.668583034931245
+[31Jul2025 04:03:56.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.841054552586883,0.011349009020655387,-16.80278963876467
+[31Jul2025 04:03:56.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.907397547947596,0.0,-16.927518324750018
+[31Jul2025 04:03:56.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.99111169702951,0.976399052557376,-17.35627979825911
+[31Jul2025 04:03:56.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.059064368594051,1.7369959211691466,-17.716658686881704
+[31Jul2025 04:03:56.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.121922611473991,2.390641166505617,-18.06228040401406
+[31Jul2025 04:03:56.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.180237642722034,2.9415700708493517,-18.394741675232133
+[31Jul2025 04:03:56.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.234501037720008,3.3938501993836923,-18.71546646044561
+[31Jul2025 04:03:56.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.285151183406043,3.75138804178674,-19.025724647138546
+[31Jul2025 04:03:56.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.332579033262817,4.017935390818366,-19.326648721001845
+[31Jul2025 04:03:56.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.377133239616228,4.197095468315283,-19.619248632803785
+[31Jul2025 04:03:56.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.4191247306194725,4.292328808596821,-19.904425056665453
+[31Jul2025 04:03:56.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.458830792007603,4.30695890888795,-20.182981213791198
+[31Jul2025 04:03:56.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.496498707206229,4.244177655985666,-20.45563341687169
+[31Jul2025 04:03:56.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.532349003580663,4.107050538029441,-20.723020473582892
+[31Jul2025 04:03:56.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -6.566578347440952,3.898521649885737,-20.98571207262663
+[31Jul2025 04:03:56.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.122160309505091,2.3599107096367007,-11.438534192924948
+[31Jul2025 04:03:56.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.153654932527132,2.0169488381181466,-11.693304051006876
+[31Jul2025 04:03:56.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! -5.183872059074048,1.6107362488057149,-11.944755202306133
+[31Jul2025 04:05:31.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.2676679280087626
+[31Jul2025 04:05:31.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.6156722504563561
+[31Jul2025 04:05:31.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.9069641650523295
+[31Jul2025 04:05:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.3480573414482251
+[31Jul2025 04:05:32.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.3448043033442332
+[31Jul2025 04:05:32.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 0.7851630681110464
+[31Jul2025 04:05:32.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 1.2254420069771186
+[31Jul2025 04:05:32.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 1.671018046586255
+[31Jul2025 04:05:32.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved wrongly! 2.1326940930437672
+[31Jul2025 04:05:45.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has reached the goal [Cosmic Discoverer]
+[31Jul2025 04:07:06.843] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[31Jul2025 04:07:10.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_BARTOtuvieja lost connection: Disconnected
+[31Jul2025 04:07:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja left the game
+[31Jul2025 04:07:10.131] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jul2025 04:07:10.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:38897] logged in with entity id 43553 at (-417.2638721619221, 67.0, -1021.0063120707956)
+[31Jul2025 04:07:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
+[31Jul2025 04:08:01.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [The Parrots and the Bats]
+[31Jul2025 04:08:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [A Seedy Place]
+[31Jul2025 04:08:26.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [Hidden in the Depths]
+[31Jul2025 04:08:45.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! 10.08385630052399,0.0,-1.1604040999172867
+[31Jul2025 04:08:45.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of PipeDios) moved too quickly! 10.614586461104551,0.0,-1.2214758500001608
+[31Jul2025 04:09:35.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:09:42.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:09:46.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[31Jul2025 04:10:02.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 04:10:04.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Jul2025 04:11:08.358] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 04:11:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR has made the advancement [A Terrible Fortress]
+[31Jul2025 04:11:52.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 04:11:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 04:11:57.636] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 04:12:00.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:35663] logged in with entity id 50000 at (-457.12687838044275, 67.0, -1000.5537669834652)
+[31Jul2025 04:12:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 04:12:26.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 04:12:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 04:12:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Enchanter]
