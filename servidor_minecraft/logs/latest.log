@@ -1559,3 +1559,45 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 06:27:07.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3594ms or 71 ticks behind
 [31Jul2025 06:27:24.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
 [31Jul2025 06:28:09.801] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:28:14.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Jul2025 06:28:23.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:28:33.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[31Jul2025 06:30:04.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:30:21.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[31Jul2025 06:30:45.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 06:31:19.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31Jul2025 06:31:30.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 06:31:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has reached the goal [Hammer Time!]
+[31Jul2025 06:32:13.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=13, z=-155} BlockPos{x=-66, y=14, z=-155}
+[31Jul2025 06:32:13.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=14, z=-155} BlockPos{x=-66, y=13, z=-155}
+[31Jul2025 06:32:33.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GothaxD: Teleported HardBNT to GothaxD]
+[31Jul2025 06:33:27.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 0.2501103906249966
+[31Jul2025 06:33:28.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 0.2501103906249966
+[31Jul2025 06:33:28.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of PipeDios) moved wrongly! 0.2501103906249966
+[31Jul2025 06:34:48.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=14, z=-256} BlockPos{x=-98, y=15, z=-256}
+[31Jul2025 06:35:14.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was doomed to fall by Flusk Zombie
+[31Jul2025 06:35:14.930] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[31Jul2025 06:35:20.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-79, y=16, z=-259} BlockPos{x=-79, y=15, z=-258}
+[31Jul2025 06:35:24.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 06:35:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 06:35:28.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 06:35:32.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has completed the challenge [Is it Hot in here?]
+[31Jul2025 06:35:45.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[31Jul2025 06:36:09.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Jul2025 06:36:11.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['BonjoXTR'/244281, l='ServerLevel[world]', x=-432.94, y=67.00, z=-1014.92] died: BonjoXTR was slain by GothaxD
+[31Jul2025 06:36:38.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[31Jul2025 06:36:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 06:36:42.919] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 06:36:44.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:46255] logged in with entity id 247741 at (-483.52520093819646, 63.0, -955.4765860373415)
+[31Jul2025 06:36:44.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 06:37:06.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=16, z=-276} BlockPos{x=-18, y=16, z=-274}
+[31Jul2025 06:37:06.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=16, z=-276} BlockPos{x=-18, y=16, z=-274}
+[31Jul2025 06:37:15.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=16, z=-260} BlockPos{x=-12, y=16, z=-260}
+[31Jul2025 06:37:15.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=16, z=-260} BlockPos{x=-12, y=16, z=-260}
+[31Jul2025 06:37:19.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=16, z=-252} BlockPos{x=-12, y=16, z=-251}
+[31Jul2025 06:37:19.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=16, z=-252} BlockPos{x=-12, y=16, z=-251}
+[31Jul2025 06:37:19.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=16, z=-251} BlockPos{x=-12, y=16, z=-251}
+[31Jul2025 06:37:46.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=16, z=-222} BlockPos{x=2, y=16, z=-221}
+[31Jul2025 06:38:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios burned to death
+[31Jul2025 06:38:06.642] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[31Jul2025 06:38:30.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

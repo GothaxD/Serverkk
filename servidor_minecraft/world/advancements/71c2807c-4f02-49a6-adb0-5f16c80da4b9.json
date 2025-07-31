@@ -3886,6 +3886,12 @@
     },
     "done": true
   },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2025-07-31 06:31:33 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:aetherium_advanchement": {
     "criteria": {
       "aetherium_advanchement": "2025-07-31 05:58:41 +0000"
@@ -3898,9 +3904,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-31 06:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-07-31 05:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-31 06:34:04 +0000"
     },
     "done": true
   },

@@ -4338,6 +4338,12 @@
     },
     "done": true
   },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-31 06:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-31 06:25:31 +0000"
