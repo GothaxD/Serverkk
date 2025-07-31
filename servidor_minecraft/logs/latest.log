@@ -1693,3 +1693,111 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 07:09:29.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [31Jul2025 07:09:40.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [31Jul2025 07:09:43.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4981ms or 99 ticks behind
+[31Jul2025 07:10:05.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7420ms or 148 ticks behind
+[31Jul2025 07:10:24.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4312ms or 86 ticks behind
+[31Jul2025 07:10:43.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
+[31Jul2025 07:10:45.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:02.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
+[31Jul2025 07:11:03.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT has reached the goal [Hammer Time!]
+[31Jul2025 07:11:21.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[31Jul2025 07:11:22.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:40.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:40.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
+[31Jul2025 07:11:45.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:45.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:46.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:46.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:11:59.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[31Jul2025 07:12:09.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:12:10.841] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:12:18.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
+[31Jul2025 07:12:36.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[31Jul2025 07:12:41.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_BARTOtuvieja lost connection: Timed out
+[31Jul2025 07:12:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja left the game
+[31Jul2025 07:12:44.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:12:46.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=80, z=-129} BlockPos{x=-44, y=75, z=-131}
+[31Jul2025 07:12:49.988] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[31Jul2025 07:12:50.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=71, z=-137} BlockPos{x=-44, y=69, z=-137}
+[31Jul2025 07:12:53.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:12:55.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:58791] logged in with entity id 305787 at (-210.34454628699692, 44.0, -50.262999215599734)
+[31Jul2025 07:12:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
+[31Jul2025 07:12:59.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Timed out
+[31Jul2025 07:12:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 07:13:03.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:13:24.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[31Jul2025 07:13:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 07:13:25.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_BARTOtuvieja lost connection: Timed out
+[31Jul2025 07:13:25.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja left the game
+[31Jul2025 07:13:40.476] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 07:13:45.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:37637] logged in with entity id 306938 at (-439.1525485315214, 68.0, -993.5)
+[31Jul2025 07:13:45.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 07:13:48.317] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:13:51.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:35433] logged in with entity id 306992 at (-242.00673427387548, 15.0, -439.26354905176464)
+[31Jul2025 07:13:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 07:13:51.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:13:52.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:13:52.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:13:52.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:13:52.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:14:01.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 07:14:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 07:14:01.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1163d49a[id=<null>,name=EL_BARTOtuvieja,properties={},legacy=false] (/127.23.33.255:40837) lost connection: Disconnected
+[31Jul2025 07:14:09.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=6, z=-182} BlockPos{x=-28, y=4, z=-182}
+[31Jul2025 07:14:09.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=6, z=-182} BlockPos{x=-28, y=4, z=-182}
+[31Jul2025 07:14:09.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=6, z=-182} BlockPos{x=-28, y=4, z=-182}
+[31Jul2025 07:14:09.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=6, z=-182} BlockPos{x=-28, y=4, z=-182}
+[31Jul2025 07:14:09.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=6, z=-182} BlockPos{x=-28, y=4, z=-182}
+[31Jul2025 07:14:21.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[31Jul2025 07:14:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 07:15:15.543] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:15:19.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:47011] logged in with entity id 308500 at (-242.00673427387548, 15.0, -439.26354905176464)
+[31Jul2025 07:15:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 07:15:20.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:15:49.857] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[31Jul2025 07:15:49.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[31Jul2025 07:15:49.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 07:15:50.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios moved wrongly!
+[31Jul2025 07:15:54.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:38919] logged in with entity id 309192 at (-210.34454628699692, 44.0, -50.262999215599734)
+[31Jul2025 07:15:54.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
+[31Jul2025 07:16:26.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Crafting In A Higher Level]
+[31Jul2025 07:16:44.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=6, z=-172} BlockPos{x=-79, y=6, z=-171}
+[31Jul2025 07:17:02.024] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:17:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has completed the challenge [Skin Made of Fire]
+[31Jul2025 07:17:05.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:37405] logged in with entity id 310654 at (-242.00673427387548, 15.0, -439.26354905176464)
+[31Jul2025 07:17:05.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 07:17:06.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:17:06.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:17:06.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:17:33.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Jul2025 07:17:35.540] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 07:17:43.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:52479] logged in with entity id 311538 at (-439.1525485315214, 68.0, -993.5)
+[31Jul2025 07:17:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 07:17:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios has made the advancement [Getting an Upgrade v2.0]
+[31Jul2025 07:17:51.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[31Jul2025 07:17:55.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[31Jul2025 07:17:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[31Jul2025 07:18:11.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:18:21.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 07:18:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 07:18:47.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:18:47.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=7, z=-216} BlockPos{x=-41, y=6, z=-214}
+[31Jul2025 07:19:22.786] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 07:19:35.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:43015] logged in with entity id 312672 at (-439.1525485315214, 68.0, -993.5)
+[31Jul2025 07:19:35.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 07:19:55.078] [User Authenticator #31/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[31Jul2025 07:19:56.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 07:19:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 07:19:58.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.241.39.38:52585] logged in with entity id 312965 at (-242.00673427387548, 15.0, -439.26354905176464)
+[31Jul2025 07:19:58.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[31Jul2025 07:19:59.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:19:59.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:20:00.509] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[31Jul2025 07:20:03.112] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 07:20:07.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:45379] logged in with entity id 313229 at (-439.1525485315214, 68.0, -993.5)
+[31Jul2025 07:20:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
