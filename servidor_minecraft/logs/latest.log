@@ -1239,3 +1239,41 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [31Jul2025 05:23:24.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [31Jul2025 05:23:34.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [31Jul2025 05:23:53.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[31Jul2025 05:26:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios was burnt to a crisp whilst fighting Zombie
+[31Jul2025 05:26:21.813] [Server thread/INFO] [tombstone/]: The player PipeDios has successfully been saved
+[31Jul2025 05:28:28.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:29:07.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Jul2025 05:29:28.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5567ms or 111 ticks behind
+[31Jul2025 05:29:48.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5431ms or 108 ticks behind
+[31Jul2025 05:30:10.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6558ms or 131 ticks behind
+[31Jul2025 05:30:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PipeDios lost connection: Disconnected
+[31Jul2025 05:30:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios left the game
+[31Jul2025 05:30:27.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[31Jul2025 05:30:31.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125113, l='ServerLevel[world]', x=-549.90, y=63.00, z=-710.96] died, message: 'Villager was slain by Adventurer Zombie'
+[31Jul2025 05:30:46.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HardBNT lost connection: Disconnected
+[31Jul2025 05:30:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT left the game
+[31Jul2025 05:31:09.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bc24348[id=<null>,name=PipeDios,properties={},legacy=false] (/127.217.236.5:36695) lost connection: Disconnected
+[31Jul2025 05:31:11.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@796c9120[id=<null>,name=PipeDios,properties={},legacy=false] (/127.217.236.5:32955) lost connection: Disconnected
+[31Jul2025 05:31:14.208] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PipeDios is 71c2807c-4f02-49a6-adb0-5f16c80da4b9
+[31Jul2025 05:31:17.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PipeDios[/127.217.236.5:52377] logged in with entity id 149232 at (-1550.699999988079, 193.5625, -959.4439221180742)
+[31Jul2025 05:31:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PipeDios joined the game
+[31Jul2025 05:31:24.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:31:42.122] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HardBNT is 739333f5-83a4-4c9a-88c2-b68c03432c09
+[31Jul2025 05:31:45.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HardBNT[/127.39.17.165:35053] logged in with entity id 150151 at (-502.69999998807907, -26.0, -785.3000000119209)
+[31Jul2025 05:31:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HardBNT joined the game
+[31Jul2025 05:32:05.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 05:32:24.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4011ms or 80 ticks behind
+[31Jul2025 05:32:45.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[31Jul2025 05:33:05.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
+[31Jul2025 05:33:23.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[31Jul2025 05:33:43.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
+[31Jul2025 05:34:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja fell from a high place
+[31Jul2025 05:34:00.455] [Server thread/INFO] [tombstone/]: The player EL_BARTOtuvieja has successfully been saved
+[31Jul2025 05:34:03.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
+[31Jul2025 05:34:22.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[31Jul2025 05:34:39.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[31Jul2025 05:34:57.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[31Jul2025 05:35:17.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Jul2025 05:35:18.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5810ms or 116 ticks behind
+[31Jul2025 05:35:39.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[31Jul2025 05:35:58.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind

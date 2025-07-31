@@ -901,7 +901,8 @@
       "minecraft:piglin": "2025-07-30 07:19:48 +0000",
       "minecraft:enderman": "2025-07-31 04:43:55 +0000",
       "minecraft:zombie": "2025-07-28 04:51:47 +0000",
-      "minecraft:drowned": "2025-07-28 05:29:55 +0000"
+      "minecraft:drowned": "2025-07-28 05:29:55 +0000",
+      "minecraft:zombie_villager": "2025-07-31 05:30:43 +0000"
     },
     "done": false
   },
@@ -4500,6 +4501,18 @@
   "pfm:recipes/furniture/white_modern_pendant": {
     "criteria": {
       "has_white_concrete": "2025-07-31 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-07-31 05:30:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-07-31 05:30:04 +0000"
     },
     "done": true
   },

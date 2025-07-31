@@ -44,6 +44,7 @@
       "minecraft:beach": "2025-07-28 06:25:43 +0000",
       "minecraft:river": "2025-07-28 06:22:11 +0000",
       "minecraft:stony_shore": "2025-07-30 04:00:36 +0000",
+      "minecraft:jagged_peaks": "2025-07-31 05:22:28 +0000",
       "minecraft:cold_ocean": "2025-07-28 06:25:46 +0000",
       "minecraft:forest": "2025-07-28 06:27:15 +0000",
       "minecraft:ocean": "2025-07-30 06:40:09 +0000",
@@ -3776,15 +3777,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-07-31 04:55:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-31 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-31 04:55:08 +0000"
     },
     "done": true
   },
@@ -3821,12 +3828,6 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-31 04:55:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-31 04:52:28 +0000"
     },
     "done": true
   },
