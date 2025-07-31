@@ -4511,9 +4511,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
-      "has_gravel": "2025-07-31 05:37:42 +0000"
+      "has_alt_item": "2025-07-31 05:30:04 +0000"
     },
     "done": true
   },
@@ -4523,9 +4523,9 @@
     },
     "done": true
   },
-  "ancient_elements:hammer_time": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "hammer_time": "2025-07-31 05:45:30 +0000"
+      "has_gravel": "2025-07-31 05:37:42 +0000"
     },
     "done": true
   },
@@ -4535,9 +4535,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/alchemy_catalyst": {
+  "ancient_elements:hammer_time": {
     "criteria": {
-      "has_alt_item": "2025-07-31 05:30:04 +0000"
+      "hammer_time": "2025-07-31 05:45:30 +0000"
     },
     "done": true
   },
