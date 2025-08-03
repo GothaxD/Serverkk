@@ -4631,6 +4631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-08-03 03:30:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_item": "2025-08-03 03:32:22 +0000"
@@ -4643,9 +4649,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_lapis_block": "2025-08-03 03:30:49 +0000"
+      "has_stone_slab": "2025-08-03 05:11:51 +0000"
     },
     "done": true
   },
