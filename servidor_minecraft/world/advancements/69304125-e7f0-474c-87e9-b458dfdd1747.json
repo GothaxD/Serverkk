@@ -612,6 +612,7 @@
       "minecraft:skeleton": "2025-07-31 03:43:46 +0000",
       "minecraft:hoglin": "2025-07-31 04:45:29 +0000",
       "minecraft:spider": "2025-07-31 04:13:58 +0000",
+      "minecraft:piglin_brute": "2025-08-03 03:48:50 +0000",
       "minecraft:creeper": "2025-08-03 03:35:46 +0000",
       "minecraft:phantom": "2025-08-03 03:25:13 +0000",
       "minecraft:wither_skeleton": "2025-07-31 04:38:10 +0000",
@@ -2967,6 +2968,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-31 04:44:39 +0000",
       "minecraft:nether_wastes": "2025-07-30 07:10:03 +0000",
+      "minecraft:soul_sand_valley": "2025-08-03 03:44:17 +0000",
       "minecraft:basalt_deltas": "2025-07-30 07:21:14 +0000"
     },
     "done": false
@@ -4598,9 +4600,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
   "malum:recipes/misc/skeleton_skull_from_grim_talc": {
     "criteria": {
       "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-03 03:49:59 +0000"
     },
     "done": true
   },
@@ -4616,6 +4642,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-03 03:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-03 03:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-03 03:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-03 03:35:46 +0000"
@@ -4628,9 +4690,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-03 03:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-03 03:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-03 03:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-03 03:49:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-08-03 03:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 03:49:38 +0000"
     },
     "done": true
   },
@@ -4640,15 +4738,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:52:24 +0000"
+    },
+    "done": true
+  },
   "malum:recipes/misc/grim_talc_from_block": {
     "criteria": {
       "has_grim_talc": "2025-08-03 03:37:15 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-03 03:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-03 03:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 03:50:00 +0000"
     },
     "done": true
   },
