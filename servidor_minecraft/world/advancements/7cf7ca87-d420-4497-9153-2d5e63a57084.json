@@ -1294,6 +1294,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-30 07:39:23 +0000",
       "minecraft:skeleton": "2025-07-28 04:39:48 +0000",
+      "minecraft:ghast": "2025-08-03 03:18:45 +0000",
       "minecraft:hoglin": "2025-07-31 04:33:40 +0000",
       "minecraft:spider": "2025-07-28 04:30:32 +0000",
       "minecraft:creeper": "2025-07-28 04:37:14 +0000",
@@ -3618,9 +3619,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-30 07:37:12 +0000",
       "minecraft:nether_wastes": "2025-07-30 07:09:07 +0000",
-      "minecraft:basalt_deltas": "2025-07-30 07:12:00 +0000"
+      "minecraft:soul_sand_valley": "2025-08-03 03:20:54 +0000",
+      "minecraft:basalt_deltas": "2025-07-30 07:12:00 +0000",
+      "minecraft:warped_forest": "2025-08-03 03:19:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "malum:recipes/misc/blazing_quartz_from_block": {
     "criteria": {
@@ -4706,6 +4709,84 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-07-31 07:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-03 03:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-03 03:12:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-08-03 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-08-03 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-03 03:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-03 03:26:01 +0000"
     },
     "done": true
   },

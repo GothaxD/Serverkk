@@ -714,3 +714,102 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [03Aug2025 03:05:56.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GothaxD[/127.149.214.214:34419] logged in with entity id 668 at (-458.6275439127922, 67.0, -975.3744750875793)
 [03Aug2025 03:05:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD joined the game
 [03Aug2025 03:06:00.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4004ms or 80 ticks behind
+[03Aug2025 03:13:24.771] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:13:26.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:58001] logged in with entity id 3259 at (-399.7018092439128, 73.0, -574.8915645674898)
+[03Aug2025 03:13:26.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:14:32.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[03Aug2025 03:14:44.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR was slain by Adventurer Zombie
+[03Aug2025 03:14:44.938] [Server thread/INFO] [tombstone/]: The player BonjoXTR has successfully been saved
+[03Aug2025 03:14:47.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[03Aug2025 03:14:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:17:05.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:17:47.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:18:10.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:19:02.780] [Worker-Main-31/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[03Aug2025 03:19:14.742] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:19:16.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:58393] logged in with entity id 6128 at (-398.28312127356224, 74.0, -651.1682001660138)
+[03Aug2025 03:19:16.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:19:47.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:19:48.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved wrongly! 0.943586871324229
+[03Aug2025 03:19:48.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved wrongly! 0.9856515811759197
+[03Aug2025 03:19:48.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved wrongly! 1.0231648905027857
+[03Aug2025 03:20:05.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:05.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:09.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:17.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:17.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:19.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[03Aug2025 03:20:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:20:34.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:34.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:20:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has completed the challenge [Hot Tourist Destinations]
+[03Aug2025 03:21:01.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:06.507] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c5af922[id=<null>,name=EL_BARTOtuvieja,properties={},legacy=false] (/127.23.33.255:48311) lost connection: Disconnected
+[03Aug2025 03:21:06.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:08.942] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[03Aug2025 03:21:12.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:49335] logged in with entity id 8493 at (-418.248522319143, 67.5625, -1020.6062629233028)
+[03Aug2025 03:21:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
+[03Aug2025 03:21:14.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:14.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:16.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:18.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:21:20.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:22:24.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:22:37.956] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:22:38.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:22:39.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:57197] logged in with entity id 12845 at (-399.8335290925126, 73.0, -578.4298430568671)
+[03Aug2025 03:22:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:22:40.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -9.247796357358652,-2.5220779607897157,3.183570196927178
+[03Aug2025 03:22:40.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -10.01569773755682,-2.701761236450075,3.4538140479131982
+[03Aug2025 03:22:50.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/12967, l='ServerLevel[world]', x=-394.70, y=77.54, z=-537.18] died, message: 'Nitwit was slain by Zombie'
+[03Aug2025 03:23:11.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Disconnected
+[03Aug2025 03:23:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
+[03Aug2025 03:23:21.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['BonjoXTR'/13099, l='ServerLevel[world]', x=-396.63, y=73.00, z=-650.94] died: BonjoXTR was slain by BonjoXTR
+[03Aug2025 03:24:25.906] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GothaxD is 7cf7ca87-d420-4497-9153-2d5e63a57084
+[03Aug2025 03:24:29.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GothaxD[/127.149.214.214:36017] logged in with entity id 15180 at (881.0, 87.9625, 104.23936882050583)
+[03Aug2025 03:24:29.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD joined the game
+[03Aug2025 03:24:31.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:24:31.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:24:31.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:25:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja has made the advancement [Ambush]
+[03Aug2025 03:25:15.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[03Aug2025 03:25:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:25:25.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:25:57.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:26:01.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:26:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Those Were the Days]
+[03Aug2025 03:26:05.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:26:22.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:18.308] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:27:20.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:52743] logged in with entity id 16968 at (-459.30000001192093, 64.0, -719.3822998966336)
+[03Aug2025 03:27:20.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:27:21.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 03:27:33.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:36.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:36.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:36.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:41.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:44.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:27:49.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:28:00.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:28:32.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:28:44.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:28:46.839] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:28:48.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Disconnected
+[03Aug2025 03:28:48.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:28:48.679] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2025 03:28:48.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:35291] logged in with entity id 18204 at (-447.44922151766815, 93.91898008857473, -808.7296069729098)
+[03Aug2025 03:28:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:29:06.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:29:18.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: Timed out
+[03Aug2025 03:29:18.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:29:23.148] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:29:24.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:56357] logged in with entity id 18737 at (-449.70011208379873, 93.0, -810.0144608821046)
+[03Aug2025 03:29:24.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:29:37.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:30:47.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 03:31:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:31:27.005] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:31:35.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:32:19.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:32:46.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

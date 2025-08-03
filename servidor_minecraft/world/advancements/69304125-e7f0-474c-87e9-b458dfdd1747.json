@@ -612,6 +612,7 @@
       "minecraft:skeleton": "2025-07-31 03:43:46 +0000",
       "minecraft:hoglin": "2025-07-31 04:45:29 +0000",
       "minecraft:spider": "2025-07-31 04:13:58 +0000",
+      "minecraft:phantom": "2025-08-03 03:25:13 +0000",
       "minecraft:wither_skeleton": "2025-07-31 04:38:10 +0000",
       "minecraft:cave_spider": "2025-07-31 03:50:45 +0000",
       "minecraft:piglin": "2025-07-30 07:17:12 +0000",
@@ -4500,6 +4501,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 07:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-31 07:40:52 +0000"
@@ -4548,12 +4555,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-31 07:22:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 07:40:52 +0000"
@@ -4572,12 +4573,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-31 07:50:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-07-31 07:40:52 +0000"
@@ -4593,6 +4588,18 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 07:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-31 07:50:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 03:25:13 +0000"
     },
     "done": true
   },
