@@ -1029,3 +1029,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [03Aug2025 04:30:44.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Disconnected
 [03Aug2025 04:30:44.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
 [03Aug2025 04:33:37.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 04:46:13.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 04:46:13.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 04:49:55.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_BARTOtuvieja moved wrongly!
