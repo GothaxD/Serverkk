@@ -813,3 +813,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [03Aug2025 03:31:35.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Aug2025 03:32:19.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Aug2025 03:32:46.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:33:32.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:33:52.389] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BonjoXTR is dc5ec246-4ab2-4606-89e0-45cdb03166ad
+[03Aug2025 03:33:54.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BonjoXTR lost connection: You logged in from another location
+[03Aug2025 03:33:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR left the game
+[03Aug2025 03:33:54.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BonjoXTR[/127.141.43.186:46869] logged in with entity id 21484 at (-442.1474716114203, 67.0, -1029.9876740875031)
+[03Aug2025 03:33:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BonjoXTR joined the game
+[03Aug2025 03:35:12.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [War Pigs]
+[03Aug2025 03:35:33.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:35:33.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:35:33.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:35:43.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:35:47.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Not even afraid of death]
+[03Aug2025 03:35:47.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Back to childhood]
+[03Aug2025 03:36:29.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 03:36:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD has made the advancement [Penteconter]
+[03Aug2025 03:37:20.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:37:21.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:37:22.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:37:48.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:37:51.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:37:55.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:38:21.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:38:21.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:38:48.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:38:48.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:39:20.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:39:26.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:39:30.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 03:39:40.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BonjoXTR> 269 180
+[03Aug2025 03:39:52.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:03.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:26.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:32.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:47.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:48.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:40:57.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:41:27.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:41:31.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:41:37.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:41:56.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:12.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:25.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:36.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:42.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:42.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:42:49.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:43:12.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:43:12.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:43:12.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 03:43:35.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

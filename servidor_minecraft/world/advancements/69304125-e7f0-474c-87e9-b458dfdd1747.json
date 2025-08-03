@@ -612,6 +612,7 @@
       "minecraft:skeleton": "2025-07-31 03:43:46 +0000",
       "minecraft:hoglin": "2025-07-31 04:45:29 +0000",
       "minecraft:spider": "2025-07-31 04:13:58 +0000",
+      "minecraft:creeper": "2025-08-03 03:35:46 +0000",
       "minecraft:phantom": "2025-08-03 03:25:13 +0000",
       "minecraft:wither_skeleton": "2025-07-31 04:38:10 +0000",
       "minecraft:cave_spider": "2025-07-31 03:50:45 +0000",
@@ -4597,9 +4598,63 @@
     },
     "done": true
   },
+  "malum:recipes/misc/skeleton_skull_from_grim_talc": {
+    "criteria": {
+      "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/block_of_grim_talc": {
+    "criteria": {
+      "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/bonemeal_from_grim_talc": {
+    "criteria": {
+      "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 03:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-03 03:37:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-08-03 03:25:13 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/zombie_head_from_grim_talc": {
+    "criteria": {
+      "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/grim_talc_from_block": {
+    "criteria": {
+      "has_grim_talc": "2025-08-03 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 03:35:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-08-03 03:37:17 +0000"
     },
     "done": true
   },
