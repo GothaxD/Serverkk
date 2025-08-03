@@ -4618,9 +4618,21 @@
     },
     "done": true
   },
+  "malum:recipes/misc/weavers_workbench": {
+    "criteria": {
+      "has_hex_ash": "2025-08-03 04:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-03 03:54:53 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/spectral_lens": {
+    "criteria": {
+      "has_hex_ash": "2025-08-03 04:37:56 +0000"
     },
     "done": true
   },
@@ -4696,6 +4708,12 @@
     },
     "done": true
   },
+  "malum:recipes/misc/hex_ash_from_block": {
+    "criteria": {
+      "has_hex_ash": "2025-08-03 04:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-03 03:37:17 +0000"
@@ -4711,6 +4729,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-03 03:49:50 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/block_of_hex_ash": {
+    "criteria": {
+      "has_hex_ash": "2025-08-03 04:37:56 +0000"
     },
     "done": true
   },
