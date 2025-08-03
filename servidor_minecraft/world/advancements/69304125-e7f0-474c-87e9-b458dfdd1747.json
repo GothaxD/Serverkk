@@ -4726,6 +4726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-08-03 04:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-03 03:57:14 +0000"
@@ -4768,6 +4774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-03 04:25:11 +0000"
+    },
+    "done": true
+  },
   "malum:recipes/misc/grim_talc_from_block": {
     "criteria": {
       "has_grim_talc": "2025-08-03 03:37:15 +0000"
@@ -4777,6 +4789,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-03 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-08-03 04:25:11 +0000"
     },
     "done": true
   },

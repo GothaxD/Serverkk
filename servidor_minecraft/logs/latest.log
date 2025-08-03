@@ -1007,3 +1007,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [03Aug2025 04:21:10.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of BonjoXTR) moved too quickly! -1.931757138496522,4.62742950167987,-10.847994846158883
 [03Aug2025 04:23:28.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Aug2025 04:23:33.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:26:02.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 04:27:49.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:28:10.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:28:21.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:28:24.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:28:24.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:29:57.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Aug2025 04:29:58.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:30:09.601] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:30:16.952] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:30:18.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -8.714409509487169,4.145444139028797,-2.791862332977395
+[03Aug2025 04:30:18.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -10.093429333835601,4.717087442219082,-3.2634352611812005
+[03Aug2025 04:30:18.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -11.406876359109333,5.209400964547513,-3.7104271947546437
+[03Aug2025 04:30:18.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! -12.661988818286076,5.625526163853394,-4.135040341580677
+[03Aug2025 04:30:18.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! 9.955554261984588,-3.0955208576266102,3.3554760973969024
+[03Aug2025 04:30:18.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! 9.955554261984588,-3.0955208576266102,3.3554760973969024
+[03Aug2025 04:30:18.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! 9.955554261984588,-3.0955208576266102,3.3554760973969024
+[03Aug2025 04:30:18.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of GothaxD) moved too quickly! 9.955554261984588,-3.0955208576266102,3.3554760973969024
+[03Aug2025 04:30:30.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 04:30:44.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GothaxD lost connection: Disconnected
+[03Aug2025 04:30:44.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GothaxD left the game
+[03Aug2025 04:33:37.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
