@@ -723,3 +723,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [03Aug2025 05:14:08.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_BARTOtuvieja[/127.23.33.255:53613] logged in with entity id 4878 at (-82.69999998807907, 66.0, -1026.3546532167545)
 [03Aug2025 05:14:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_BARTOtuvieja joined the game
 [03Aug2025 05:16:02.557] [Worker-Main-2/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[03Aug2025 05:20:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EL_BARTOtuvieja> -599 -970
+[03Aug2025 05:28:29.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Aug2025 05:30:26.152] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player EL_BARTOtuvieja is 69304125-e7f0-474c-87e9-b458dfdd1747
+[03Aug2025 05:29:29.047] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[03Aug2025 05:30:32.839] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
