@@ -269,6 +269,7 @@
       "sweet_berries": "2025-07-28 04:17:23 +0000",
       "cooked_beef": "2025-07-28 05:08:42 +0000",
       "baked_potato": "2025-07-30 06:16:57 +0000",
+      "porkchop": "2025-08-03 04:04:56 +0000",
       "apple": "2025-07-28 04:39:14 +0000",
       "potato": "2025-07-30 08:08:50 +0000",
       "bread": "2025-07-28 04:13:51 +0000",
@@ -4787,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-08-03 04:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-03 03:49:49 +0000"
@@ -4904,6 +4911,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-08-03 03:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 04:09:39 +0000"
     },
     "done": true
   },
